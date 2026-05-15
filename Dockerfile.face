@@ -1,0 +1,43 @@
+# MMDetection 人脸检测 + MMPose 人脸关键点
+# Apple Silicon 上 Docker 为 linux/arm64 时 OpenMMLab 往往无 mmcv 预编译包，会触发源码编译并失败；
+# 使用 amd64 镜像可下载官方 cpu/torch2.1.0 的 mmcv wheel（经 QEMU 运行，构建更稳）。
+FROM --platform=linux/amd64 docker.m.daocloud.io/library/python:3.11-slim
+
+ENV MPLBACKEND=Agg
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    libgl1 \
+    libglib2.0-0 \
+    && rm -rf /var/lib/apt/lists/*
+
+# 全程锁定 NumPy 1.x（mmcv / torch2.1 / xtcocotools 与 NumPy 2 不兼容）
+RUN printf 'numpy==1.26.4\n' > /constraints.txt
+
+RUN pip install --no-cache-dir -c /constraints.txt \
+    "numpy==1.26.4" \
+    "opencv-python-headless>=4.8.0,<4.11"
+
+RUN pip install --no-cache-dir -c /constraints.txt \
+    torch==2.1.2 torchvision==0.16.2 \
+    --index-url https://download.pytorch.org/whl/cpu
+
+RUN pip install --no-cache-dir -c /constraints.txt -U openmim \
+    && pip install --no-cache-dir -c /constraints.txt "mmcv==2.1.0" \
+        -f https://download.openmmlab.com/mmcv/dist/cpu/torch2.1.0/index.html \
+    && pip install --no-cache-dir -c /constraints.txt "mmengine==0.10.7" "mmdet==3.3.0" \
+    && pip install --no-cache-dir -c /constraints.txt "mmpose==1.3.2" --no-deps \
+    && pip install --no-cache-dir -c /constraints.txt json-tricks munkres \
+    && pip install --no-cache-dir -c /constraints.txt --no-binary xtcocotools "xtcocotools==1.14.3"
+
+# 防止后续依赖把 NumPy 升到 2.x，并校验运行时 ABI
+RUN pip install --no-cache-dir --force-reinstall "numpy==1.26.4" \
+    && python -c "import numpy as np; import xtcocotools; import mmcv; assert np.__version__.startswith('1.')"
+
+COPY scripts/face_detect_keypoint.py ./scripts/
+
+# 默认读挂载的 docs/samples；完整 CelebA 在宿主机 Projects/data，见 docs/环境配置.md
+# 首次运行会从 OpenMMLab 下载权重到容器内缓存
+# Apple Silicon: docker run --platform linux/amd64 ...
+CMD ["python", "scripts/face_detect_keypoint.py", "--input", "/app/docs/samples", "--output-dir", "/app/docs/outputs/face_detection", "--device", "cpu", "--save"]

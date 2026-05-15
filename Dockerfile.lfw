@@ -1,0 +1,28 @@
+# LFW + ArcFace（InsightFace）人脸验证准确率
+FROM docker.m.daocloud.io/library/python:3.11-slim
+
+ENV MPLBACKEND=Agg
+WORKDIR /app
+
+# insightface 在 linux/arm64 上常需从源码编译 Cython 扩展，必须装 g++
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    g++ \
+    libgl1 \
+    libglib2.0-0 \
+    libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip install --no-cache-dir \
+    "numpy>=1.26.4,<2" \
+    "opencv-python-headless>=4.8.0,<4.11" \
+    "scikit-learn>=1.3,<2" \
+    "insightface==0.7.3" \
+    onnxruntime
+
+COPY scripts/lfw_arcface_verify.py ./scripts/
+
+# 挂载 LFW 数据: -v /path/to/Projects/data:/data
+# 挂载报告目录: -v "$(pwd)/docs/模型准确率测试:/app/docs/模型准确率测试"
+# 首次运行会下载 InsightFace buffalo_l 模型
+CMD ["python", "scripts/lfw_arcface_verify.py", "--data-root", "/data/lfw/lfw", "--report", "/app/docs/模型准确率测试/lfw_arcface_verification_report.md"]

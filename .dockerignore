@@ -1,0 +1,11 @@
+.venv
+__pycache__
+output
+*.pyc
+.DS_Store
+.git
+docs/数据集分析报告
+docs/模型准确率测试
+docs/outputs
+# 完整数据集在项目外 ../data，不进入构建上下文
+../data

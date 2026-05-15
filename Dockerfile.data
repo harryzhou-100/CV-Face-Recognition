@@ -1,0 +1,20 @@
+# CelebA / LFW 数据探索与报告
+FROM docker.m.daocloud.io/library/python:3.11-slim
+
+ENV MPLBACKEND=Agg
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libgl1 \
+    libglib2.0-0 \
+    && rm -rf /var/lib/apt/lists/* \
+    && pip install --no-cache-dir \
+    "numpy>=1.26.4,<2" \
+    "opencv-python-headless>=4.8.0,<4.11" \
+    "matplotlib>=3.8,<4"
+
+COPY scripts/data_exploration.py scripts/prepare_dataset_samples.py ./scripts/
+
+# 挂载宿主机完整数据: -v /path/to/Projects/data:/data
+# 挂载报告目录: -v "$(pwd)/docs/数据集分析报告:/app/docs/数据集分析报告"
+CMD ["python", "scripts/data_exploration.py", "--data-root", "/data", "--report-dir", "/app/docs/数据集分析报告"]

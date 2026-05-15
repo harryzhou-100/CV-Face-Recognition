@@ -1,0 +1,11 @@
+# OpenCV 读图 / 灰度化 / 保存结果（无 GUI）
+FROM docker.m.daocloud.io/library/python:3.11-slim
+
+WORKDIR /app
+
+RUN pip install --no-cache-dir "numpy>=1.26.4,<2" "opencv-python-headless>=4.8.0,<4.11"
+
+COPY scripts/opencv_test.py ./scripts/
+
+# 默认读挂载的测试图；运行示例见 docs/环境配置.md
+CMD ["python", "scripts/opencv_test.py", "/data/test.jpg", "--save", "-o", "/app/output"]
