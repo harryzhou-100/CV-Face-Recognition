@@ -1,0 +1,8 @@
+{
+  "checkpoint": "stage2_keypoints/work_dirs/hrnetv2_w18_300w/best_NME_epoch_20.pth",
+  "split": "test",
+  "metrics": {
+    "NME": 0.041748034907322304
+  },
+  "NME": 0.041748034907322304
+}

@@ -1,0 +1,19 @@
+{
+  "dataset": "ms1mv3_subset",
+  "data_root": "stage2_recognition/data/ms1mv3_subset",
+  "lfw_root": "stage2_recognition/data/lfw_flat",
+  "embedding_size": 512,
+  "batch_size": 256,
+  "epochs": 2,
+  "lr": 0.002,
+  "weight_decay": 0.0005,
+  "num_workers": 8,
+  "image_size": 112,
+  "arcface_s": 64.0,
+  "arcface_m": 0.5,
+  "pretrained": true,
+  "pretrained_checkpoint": "stage2_recognition/models/ms1mv3_arcface_r50_backbone.pth",
+  "finetune_note": "MS1MV3 ArcFace R50 backbone + fresh ArcFace head on local subset",
+  "lfw_pairs_each": 3000,
+  "target_lfw_accuracy": 0.985
+}

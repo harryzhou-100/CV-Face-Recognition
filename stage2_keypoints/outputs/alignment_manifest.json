@@ -1,0 +1,322 @@
+[
+  {
+    "image": "Test/02_Outdoor/outdoor_251.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_251.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_029.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_029.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_087.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_087.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_132.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_132.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_298.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_298.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_191.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_191.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_074.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_074.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_011.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_011.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_285.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_285.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_219.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_219.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_209.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_209.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_249.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_249.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_237.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_237.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_292.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_292.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_228.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_228.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_245.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_245.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_175.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_175.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_215.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_215.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_116.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_116.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_066.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_066.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_291.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_291.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_152.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_152.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_027.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_027.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_118.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_118.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_007.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_007.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_177.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_177.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_264.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_264.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_027.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_027.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_098.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_098.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_286.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_286.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_253.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_253.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_076.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_076.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_178.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_178.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_264.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_264.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_235.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_235.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_048.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_048.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_298.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_298.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_137.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_137.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_022.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_022.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_262.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_262.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_224.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_224.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_199.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_199.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_190.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_190.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_161.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_161.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_135.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_135.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_063.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_063.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_107.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_107.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_038.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_038.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_003.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_003.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_293.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_293.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_173.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_173.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_153.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_153.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_091.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_091.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_198.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_198.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_042.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_042.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_110.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_110.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_064.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_064.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_167.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_167.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_072.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_072.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_085.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_085.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_113.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_113.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_104.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_104.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_283.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_283.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_160.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_160.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_205.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_205.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_195.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_195.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_142.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_142.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_043.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_043.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_112.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_112.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_261.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_261.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_233.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_233.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_053.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_053.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_096.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_096.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_061.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_061.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_248.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_248.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_251.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_251.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_295.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_295.png"
+  },
+  {
+    "image": "Test/01_Indoor/indoor_287.png",
+    "aligned": "outputs/aligned/Test__01_Indoor__indoor_287.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_213.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_213.png"
+  },
+  {
+    "image": "Test/02_Outdoor/outdoor_127.png",
+    "aligned": "outputs/aligned/Test__02_Outdoor__outdoor_127.png"
+  }
+]

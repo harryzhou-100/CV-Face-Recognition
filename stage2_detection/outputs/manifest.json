@@ -1,0 +1,842 @@
+[
+  {
+    "image": "39--Ice_Skating/39_Ice_Skating_iceskiing_39_941.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/39--Ice_Skating__39_Ice_Skating_iceskiing_39_941.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Demonstrators_2_488.jpg",
+    "category": "multi_face",
+    "num_det": 9,
+    "num_gt": 8,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Demonstrators_2_488.jpg"
+  },
+  {
+    "image": "57--Angler/57_Angler_peoplefishing_57_880.jpg",
+    "category": "medium",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/medium/57--Angler__57_Angler_peoplefishing_57_880.jpg"
+  },
+  {
+    "image": "18--Concerts/18_Concerts_Concerts_18_1004.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/18--Concerts__18_Concerts_Concerts_18_1004.jpg"
+  },
+  {
+    "image": "24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_633.jpg",
+    "category": "multi_face",
+    "num_det": 7,
+    "num_gt": 5,
+    "output": "outputs/multi_face/24--Soldier_Firing__24_Soldier_Firing_Soldier_Firing_24_633.jpg"
+  },
+  {
+    "image": "43--Row_Boat/43_Row_Boat_Canoe_43_942.jpg",
+    "category": "multi_face",
+    "num_det": 8,
+    "num_gt": 15,
+    "output": "outputs/multi_face/43--Row_Boat__43_Row_Boat_Canoe_43_942.jpg"
+  },
+  {
+    "image": "44--Aerobics/44_Aerobics_Aerobics_44_809.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 3,
+    "output": "outputs/multi_face/44--Aerobics__44_Aerobics_Aerobics_44_809.jpg"
+  },
+  {
+    "image": "16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_566.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 1,
+    "output": "outputs/easy/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_566.jpg"
+  },
+  {
+    "image": "25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_440.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 2,
+    "output": "outputs/multi_face/25--Soldier_Patrol__25_Soldier_Patrol_Soldier_Patrol_25_440.jpg"
+  },
+  {
+    "image": "37--Soccer/37_Soccer_soccer_ball_37_60.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 3,
+    "output": "outputs/multi_face/37--Soccer__37_Soccer_soccer_ball_37_60.jpg"
+  },
+  {
+    "image": "4--Dancing/4_Dancing_Dancing_4_327.jpg",
+    "category": "medium",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/medium/4--Dancing__4_Dancing_Dancing_4_327.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Political_Rally_2_491.jpg",
+    "category": "multi_face",
+    "num_det": 13,
+    "num_gt": 11,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Political_Rally_2_491.jpg"
+  },
+  {
+    "image": "41--Swimming/41_Swimming_Swimmer_41_401.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/easy/41--Swimming__41_Swimming_Swimmer_41_401.jpg"
+  },
+  {
+    "image": "44--Aerobics/44_Aerobics_Aerobics_44_443.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/44--Aerobics__44_Aerobics_Aerobics_44_443.jpg"
+  },
+  {
+    "image": "28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_357.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 1,
+    "output": "outputs/multi_face/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_357.jpg"
+  },
+  {
+    "image": "54--Rescue/54_Rescue_rescuepeople_54_840.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 2,
+    "output": "outputs/multi_face/54--Rescue__54_Rescue_rescuepeople_54_840.jpg"
+  },
+  {
+    "image": "40--Gymnastics/40_Gymnastics_Gymnastics_40_156.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 3,
+    "output": "outputs/multi_face/40--Gymnastics__40_Gymnastics_Gymnastics_40_156.jpg"
+  },
+  {
+    "image": "35--Basketball/35_Basketball_playingbasketball_35_556.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/35--Basketball__35_Basketball_playingbasketball_35_556.jpg"
+  },
+  {
+    "image": "40--Gymnastics/40_Gymnastics_Gymnastics_40_420.jpg",
+    "category": "multi_face",
+    "num_det": 9,
+    "num_gt": 9,
+    "output": "outputs/multi_face/40--Gymnastics__40_Gymnastics_Gymnastics_40_420.jpg"
+  },
+  {
+    "image": "25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_1026.jpg",
+    "category": "multi_face",
+    "num_det": 6,
+    "num_gt": 5,
+    "output": "outputs/multi_face/25--Soldier_Patrol__25_Soldier_Patrol_Soldier_Patrol_25_1026.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Protesters_2_56.jpg",
+    "category": "multi_face",
+    "num_det": 16,
+    "num_gt": 9,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Protesters_2_56.jpg"
+  },
+  {
+    "image": "16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_637.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_637.jpg"
+  },
+  {
+    "image": "7--Cheering/7_Cheering_Cheering_7_60.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 4,
+    "output": "outputs/multi_face/7--Cheering__7_Cheering_Cheering_7_60.jpg"
+  },
+  {
+    "image": "27--Spa/27_Spa_Spa_27_656.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 3,
+    "output": "outputs/multi_face/27--Spa__27_Spa_Spa_27_656.jpg"
+  },
+  {
+    "image": "41--Swimming/41_Swimming_Swimmer_41_148.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/41--Swimming__41_Swimming_Swimmer_41_148.jpg"
+  },
+  {
+    "image": "13--Interview/13_Interview_Interview_Sequences_13_884.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/13--Interview__13_Interview_Interview_Sequences_13_884.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Protesters_2_163.jpg",
+    "category": "multi_face",
+    "num_det": 76,
+    "num_gt": 41,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Protesters_2_163.jpg"
+  },
+  {
+    "image": "28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_643.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 3,
+    "output": "outputs/multi_face/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_643.jpg"
+  },
+  {
+    "image": "35--Basketball/35_Basketball_Basketball_35_791.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/35--Basketball__35_Basketball_Basketball_35_791.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_617.jpg",
+    "category": "multi_face",
+    "num_det": 14,
+    "num_gt": 17,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Demonstration_Or_Protest_2_617.jpg"
+  },
+  {
+    "image": "9--Press_Conference/9_Press_Conference_Press_Conference_9_784.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/9--Press_Conference__9_Press_Conference_Press_Conference_9_784.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_30.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 4,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Demonstration_Or_Protest_2_30.jpg"
+  },
+  {
+    "image": "34--Baseball/34_Baseball_Baseball_34_436.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/easy/34--Baseball__34_Baseball_Baseball_34_436.jpg"
+  },
+  {
+    "image": "21--Festival/21_Festival_Festival_21_140.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 3,
+    "output": "outputs/multi_face/21--Festival__21_Festival_Festival_21_140.jpg"
+  },
+  {
+    "image": "9--Press_Conference/9_Press_Conference_Press_Conference_9_346.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 7,
+    "output": "outputs/multi_face/9--Press_Conference__9_Press_Conference_Press_Conference_9_346.jpg"
+  },
+  {
+    "image": "40--Gymnastics/40_Gymnastics_Gymnastics_40_1035.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/40--Gymnastics__40_Gymnastics_Gymnastics_40_1035.jpg"
+  },
+  {
+    "image": "55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_414.jpg",
+    "category": "no_face",
+    "num_det": 0,
+    "num_gt": 1,
+    "output": "outputs/no_face/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_414.jpg"
+  },
+  {
+    "image": "0--Parade/0_Parade_marchingband_1_517.jpg",
+    "category": "multi_face",
+    "num_det": 10,
+    "num_gt": 11,
+    "output": "outputs/multi_face/0--Parade__0_Parade_marchingband_1_517.jpg"
+  },
+  {
+    "image": "30--Surgeons/30_Surgeons_Surgeons_30_122.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 5,
+    "output": "outputs/multi_face/30--Surgeons__30_Surgeons_Surgeons_30_122.jpg"
+  },
+  {
+    "image": "52--Photographers/52_Photographers_photographertakingphoto_52_578.jpg",
+    "category": "multi_face",
+    "num_det": 15,
+    "num_gt": 9,
+    "output": "outputs/multi_face/52--Photographers__52_Photographers_photographertakingphoto_52_578.jpg"
+  },
+  {
+    "image": "38--Tennis/38_Tennis_Tennis_38_497.jpg",
+    "category": "medium",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/medium/38--Tennis__38_Tennis_Tennis_38_497.jpg"
+  },
+  {
+    "image": "35--Basketball/35_Basketball_basketballgame_ball_35_858.jpg",
+    "category": "multi_face",
+    "num_det": 6,
+    "num_gt": 2,
+    "output": "outputs/multi_face/35--Basketball__35_Basketball_basketballgame_ball_35_858.jpg"
+  },
+  {
+    "image": "28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_507.jpg",
+    "category": "multi_face",
+    "num_det": 4,
+    "num_gt": 4,
+    "output": "outputs/multi_face/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_507.jpg"
+  },
+  {
+    "image": "53--Raid/53_Raid_policeraid_53_597.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/53--Raid__53_Raid_policeraid_53_597.jpg"
+  },
+  {
+    "image": "12--Group/12_Group_Group_12_Group_Group_12_411.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 5,
+    "output": "outputs/multi_face/12--Group__12_Group_Group_12_Group_Group_12_411.jpg"
+  },
+  {
+    "image": "26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_405.jpg",
+    "category": "multi_face",
+    "num_det": 4,
+    "num_gt": 4,
+    "output": "outputs/multi_face/26--Soldier_Drilling__26_Soldier_Drilling_Soldiers_Drilling_26_405.jpg"
+  },
+  {
+    "image": "27--Spa/27_Spa_Spa_27_420.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/27--Spa__27_Spa_Spa_27_420.jpg"
+  },
+  {
+    "image": "21--Festival/21_Festival_Festival_21_340.jpg",
+    "category": "multi_face",
+    "num_det": 147,
+    "num_gt": 66,
+    "output": "outputs/multi_face/21--Festival__21_Festival_Festival_21_340.jpg"
+  },
+  {
+    "image": "20--Family_Group/20_Family_Group_Family_Group_20_108.jpg",
+    "category": "multi_face",
+    "num_det": 8,
+    "num_gt": 7,
+    "output": "outputs/multi_face/20--Family_Group__20_Family_Group_Family_Group_20_108.jpg"
+  },
+  {
+    "image": "6--Funeral/6_Funeral_Funeral_6_779.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/6--Funeral__6_Funeral_Funeral_6_779.jpg"
+  },
+  {
+    "image": "19--Couple/19_Couple_Couple_19_822.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 2,
+    "output": "outputs/multi_face/19--Couple__19_Couple_Couple_19_822.jpg"
+  },
+  {
+    "image": "21--Festival/21_Festival_Festival_21_193.jpg",
+    "category": "multi_face",
+    "num_det": 44,
+    "num_gt": 18,
+    "output": "outputs/multi_face/21--Festival__21_Festival_Festival_21_193.jpg"
+  },
+  {
+    "image": "0--Parade/0_Parade_marchingband_1_869.jpg",
+    "category": "multi_face",
+    "num_det": 7,
+    "num_gt": 5,
+    "output": "outputs/multi_face/0--Parade__0_Parade_marchingband_1_869.jpg"
+  },
+  {
+    "image": "9--Press_Conference/9_Press_Conference_Press_Conference_9_431.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/9--Press_Conference__9_Press_Conference_Press_Conference_9_431.jpg"
+  },
+  {
+    "image": "12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_235.jpg",
+    "category": "multi_face",
+    "num_det": 7,
+    "num_gt": 7,
+    "output": "outputs/multi_face/12--Group__12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_235.jpg"
+  },
+  {
+    "image": "55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_711.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 1,
+    "output": "outputs/easy/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_711.jpg"
+  },
+  {
+    "image": "16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_589.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_589.jpg"
+  },
+  {
+    "image": "24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_931.jpg",
+    "category": "multi_face",
+    "num_det": 11,
+    "num_gt": 9,
+    "output": "outputs/multi_face/24--Soldier_Firing__24_Soldier_Firing_Soldier_Firing_24_931.jpg"
+  },
+  {
+    "image": "49--Greeting/49_Greeting_peoplegreeting_49_759.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 1,
+    "output": "outputs/multi_face/49--Greeting__49_Greeting_peoplegreeting_49_759.jpg"
+  },
+  {
+    "image": "12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_996.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/easy/12--Group__12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_996.jpg"
+  },
+  {
+    "image": "54--Rescue/54_Rescue_rescuepeople_54_191.jpg",
+    "category": "multi_face",
+    "num_det": 8,
+    "num_gt": 8,
+    "output": "outputs/multi_face/54--Rescue__54_Rescue_rescuepeople_54_191.jpg"
+  },
+  {
+    "image": "35--Basketball/35_Basketball_Basketball_35_209.jpg",
+    "category": "multi_face",
+    "num_det": 185,
+    "num_gt": 78,
+    "output": "outputs/multi_face/35--Basketball__35_Basketball_Basketball_35_209.jpg"
+  },
+  {
+    "image": "31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_420.jpg",
+    "category": "multi_face",
+    "num_det": 25,
+    "num_gt": 24,
+    "output": "outputs/multi_face/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_420.jpg"
+  },
+  {
+    "image": "50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_493.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 2,
+    "output": "outputs/multi_face/50--Celebration_Or_Party__50_Celebration_Or_Party_houseparty_50_493.jpg"
+  },
+  {
+    "image": "37--Soccer/37_Soccer_soccer_ball_37_28.jpg",
+    "category": "multi_face",
+    "num_det": 6,
+    "num_gt": 4,
+    "output": "outputs/multi_face/37--Soccer__37_Soccer_soccer_ball_37_28.jpg"
+  },
+  {
+    "image": "41--Swimming/41_Swimming_Swimmer_41_55.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/41--Swimming__41_Swimming_Swimmer_41_55.jpg"
+  },
+  {
+    "image": "32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_870.jpg",
+    "category": "medium",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/medium/32--Worker_Laborer__32_Worker_Laborer_Worker_Laborer_32_870.jpg"
+  },
+  {
+    "image": "40--Gymnastics/40_Gymnastics_Gymnastics_40_24.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/40--Gymnastics__40_Gymnastics_Gymnastics_40_24.jpg"
+  },
+  {
+    "image": "5--Car_Accident/5_Car_Accident_Accident_5_177.jpg",
+    "category": "multi_face",
+    "num_det": 21,
+    "num_gt": 17,
+    "output": "outputs/multi_face/5--Car_Accident__5_Car_Accident_Accident_5_177.jpg"
+  },
+  {
+    "image": "55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_786.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 4,
+    "output": "outputs/multi_face/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_786.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_687.jpg",
+    "category": "multi_face",
+    "num_det": 300,
+    "num_gt": 708,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Demonstration_Or_Protest_2_687.jpg"
+  },
+  {
+    "image": "54--Rescue/54_Rescue_rescuepeople_54_328.jpg",
+    "category": "multi_face",
+    "num_det": 4,
+    "num_gt": 1,
+    "output": "outputs/multi_face/54--Rescue__54_Rescue_rescuepeople_54_328.jpg"
+  },
+  {
+    "image": "0--Parade/0_Parade_marchingband_1_227.jpg",
+    "category": "multi_face",
+    "num_det": 47,
+    "num_gt": 27,
+    "output": "outputs/multi_face/0--Parade__0_Parade_marchingband_1_227.jpg"
+  },
+  {
+    "image": "13--Interview/13_Interview_Interview_On_Location_13_246.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/13--Interview__13_Interview_Interview_On_Location_13_246.jpg"
+  },
+  {
+    "image": "28--Sports_Fan/28_Sports_Fan_Sports_Fan_28_835.jpg",
+    "category": "multi_face",
+    "num_det": 4,
+    "num_gt": 2,
+    "output": "outputs/multi_face/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_835.jpg"
+  },
+  {
+    "image": "52--Photographers/52_Photographers_taketouristphotos_52_281.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 3,
+    "output": "outputs/multi_face/52--Photographers__52_Photographers_taketouristphotos_52_281.jpg"
+  },
+  {
+    "image": "11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_529.jpg",
+    "category": "multi_face",
+    "num_det": 16,
+    "num_gt": 17,
+    "output": "outputs/multi_face/11--Meeting__11_Meeting_Meeting_11_Meeting_Meeting_11_529.jpg"
+  },
+  {
+    "image": "39--Ice_Skating/39_Ice_Skating_iceskiing_39_81.jpg",
+    "category": "medium",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/medium/39--Ice_Skating__39_Ice_Skating_iceskiing_39_81.jpg"
+  },
+  {
+    "image": "16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_474.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_474.jpg"
+  },
+  {
+    "image": "58--Hockey/58_Hockey_icehockey_puck_58_655.jpg",
+    "category": "multi_face",
+    "num_det": 6,
+    "num_gt": 5,
+    "output": "outputs/multi_face/58--Hockey__58_Hockey_icehockey_puck_58_655.jpg"
+  },
+  {
+    "image": "33--Running/33_Running_Running_33_747.jpg",
+    "category": "hard",
+    "num_det": 2,
+    "num_gt": 1,
+    "output": "outputs/hard/33--Running__33_Running_Running_33_747.jpg"
+  },
+  {
+    "image": "35--Basketball/35_Basketball_basketballgame_ball_35_709.jpg",
+    "category": "multi_face",
+    "num_det": 168,
+    "num_gt": 276,
+    "output": "outputs/multi_face/35--Basketball__35_Basketball_basketballgame_ball_35_709.jpg"
+  },
+  {
+    "image": "0--Parade/0_Parade_Parade_0_12.jpg",
+    "category": "multi_face",
+    "num_det": 19,
+    "num_gt": 20,
+    "output": "outputs/multi_face/0--Parade__0_Parade_Parade_0_12.jpg"
+  },
+  {
+    "image": "5--Car_Accident/5_Car_Accident_Car_Crash_5_475.jpg",
+    "category": "medium",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/medium/5--Car_Accident__5_Car_Accident_Car_Crash_5_475.jpg"
+  },
+  {
+    "image": "56--Voter/56_Voter_peoplevoting_56_339.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 3,
+    "output": "outputs/multi_face/56--Voter__56_Voter_peoplevoting_56_339.jpg"
+  },
+  {
+    "image": "10--People_Marching/10_People_Marching_People_Marching_2_944.jpg",
+    "category": "multi_face",
+    "num_det": 8,
+    "num_gt": 7,
+    "output": "outputs/multi_face/10--People_Marching__10_People_Marching_People_Marching_2_944.jpg"
+  },
+  {
+    "image": "55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_643.jpg",
+    "category": "multi_face",
+    "num_det": 13,
+    "num_gt": 15,
+    "output": "outputs/multi_face/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_643.jpg"
+  },
+  {
+    "image": "55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_721.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_721.jpg"
+  },
+  {
+    "image": "11--Meeting/11_Meeting_Meeting_11_Meeting_Meeting_11_702.jpg",
+    "category": "multi_face",
+    "num_det": 56,
+    "num_gt": 64,
+    "output": "outputs/multi_face/11--Meeting__11_Meeting_Meeting_11_Meeting_Meeting_11_702.jpg"
+  },
+  {
+    "image": "13--Interview/13_Interview_Interview_Sequences_13_347.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 1,
+    "output": "outputs/easy/13--Interview__13_Interview_Interview_Sequences_13_347.jpg"
+  },
+  {
+    "image": "38--Tennis/38_Tennis_Tennis_38_501.jpg",
+    "category": "multi_face",
+    "num_det": 4,
+    "num_gt": 4,
+    "output": "outputs/multi_face/38--Tennis__38_Tennis_Tennis_38_501.jpg"
+  },
+  {
+    "image": "34--Baseball/34_Baseball_Baseball_34_66.jpg",
+    "category": "multi_face",
+    "num_det": 5,
+    "num_gt": 3,
+    "output": "outputs/multi_face/34--Baseball__34_Baseball_Baseball_34_66.jpg"
+  },
+  {
+    "image": "35--Basketball/35_Basketball_basketballgame_ball_35_460.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/35--Basketball__35_Basketball_basketballgame_ball_35_460.jpg"
+  },
+  {
+    "image": "31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_373.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_373.jpg"
+  },
+  {
+    "image": "12--Group/12_Group_Group_12_Group_Group_12_610.jpg",
+    "category": "multi_face",
+    "num_det": 4,
+    "num_gt": 3,
+    "output": "outputs/multi_face/12--Group__12_Group_Group_12_Group_Group_12_610.jpg"
+  },
+  {
+    "image": "54--Rescue/54_Rescue_rescuepeople_54_581.jpg",
+    "category": "multi_face",
+    "num_det": 122,
+    "num_gt": 78,
+    "output": "outputs/multi_face/54--Rescue__54_Rescue_rescuepeople_54_581.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_799.jpg",
+    "category": "multi_face",
+    "num_det": 45,
+    "num_gt": 38,
+    "output": "outputs/multi_face/2--Demonstration__2_Demonstration_Demonstration_Or_Protest_2_799.jpg"
+  },
+  {
+    "image": "7--Cheering/7_Cheering_Cheering_7_530.jpg",
+    "category": "multi_face",
+    "num_det": 21,
+    "num_gt": 15,
+    "output": "outputs/multi_face/7--Cheering__7_Cheering_Cheering_7_530.jpg"
+  },
+  {
+    "image": "39--Ice_Skating/39_Ice_Skating_Ice_Skating_39_252.jpg",
+    "category": "multi_face",
+    "num_det": 10,
+    "num_gt": 10,
+    "output": "outputs/multi_face/39--Ice_Skating__39_Ice_Skating_Ice_Skating_39_252.jpg"
+  },
+  {
+    "image": "37--Soccer/37_Soccer_Soccer_37_655.jpg",
+    "category": "multi_face",
+    "num_det": 9,
+    "num_gt": 6,
+    "output": "outputs/multi_face/37--Soccer__37_Soccer_Soccer_37_655.jpg"
+  },
+  {
+    "image": "13--Interview/13_Interview_Interview_On_Location_13_513.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/13--Interview__13_Interview_Interview_On_Location_13_513.jpg"
+  },
+  {
+    "image": "24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_702.jpg",
+    "category": "multi_face",
+    "num_det": 12,
+    "num_gt": 10,
+    "output": "outputs/multi_face/24--Soldier_Firing__24_Soldier_Firing_Soldier_Firing_24_702.jpg"
+  },
+  {
+    "image": "41--Swimming/41_Swimming_Swimmer_41_35.jpg",
+    "category": "multi_face",
+    "num_det": 3,
+    "num_gt": 1,
+    "output": "outputs/multi_face/41--Swimming__41_Swimming_Swimmer_41_35.jpg"
+  },
+  {
+    "image": "26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_307.jpg",
+    "category": "multi_face",
+    "num_det": 8,
+    "num_gt": 9,
+    "output": "outputs/multi_face/26--Soldier_Drilling__26_Soldier_Drilling_Soldiers_Drilling_26_307.jpg"
+  },
+  {
+    "image": "26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_85.jpg",
+    "category": "multi_face",
+    "num_det": 8,
+    "num_gt": 6,
+    "output": "outputs/multi_face/26--Soldier_Drilling__26_Soldier_Drilling_Soldiers_Drilling_26_85.jpg"
+  },
+  {
+    "image": "19--Couple/19_Couple_Couple_19_31.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 1,
+    "output": "outputs/easy/19--Couple__19_Couple_Couple_19_31.jpg"
+  },
+  {
+    "image": "31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_93.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/easy/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_93.jpg"
+  },
+  {
+    "image": "16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_524.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/easy/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_524.jpg"
+  },
+  {
+    "image": "29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_251.jpg",
+    "category": "multi_face",
+    "num_det": 24,
+    "num_gt": 21,
+    "output": "outputs/multi_face/29--Students_Schoolkids__29_Students_Schoolkids_Students_Schoolkids_29_251.jpg"
+  },
+  {
+    "image": "17--Ceremony/17_Ceremony_Ceremony_17_418.jpg",
+    "category": "multi_face",
+    "num_det": 75,
+    "num_gt": 61,
+    "output": "outputs/multi_face/17--Ceremony__17_Ceremony_Ceremony_17_418.jpg"
+  },
+  {
+    "image": "50--Celebration_Or_Party/50_Celebration_Or_Party_birthdayparty_50_249.jpg",
+    "category": "multi_face",
+    "num_det": 8,
+    "num_gt": 5,
+    "output": "outputs/multi_face/50--Celebration_Or_Party__50_Celebration_Or_Party_birthdayparty_50_249.jpg"
+  },
+  {
+    "image": "0--Parade/0_Parade_marchingband_1_382.jpg",
+    "category": "multi_face",
+    "num_det": 13,
+    "num_gt": 15,
+    "output": "outputs/multi_face/0--Parade__0_Parade_marchingband_1_382.jpg"
+  },
+  {
+    "image": "2--Demonstration/2_Demonstration_Political_Rally_2_611.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/2--Demonstration__2_Demonstration_Political_Rally_2_611.jpg"
+  },
+  {
+    "image": "27--Spa/27_Spa_Spa_27_393.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/27--Spa__27_Spa_Spa_27_393.jpg"
+  },
+  {
+    "image": "18--Concerts/18_Concerts_Concerts_18_27.jpg",
+    "category": "easy",
+    "num_det": 2,
+    "num_gt": 1,
+    "output": "outputs/easy/18--Concerts__18_Concerts_Concerts_18_27.jpg"
+  },
+  {
+    "image": "47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_266.jpg",
+    "category": "easy",
+    "num_det": 1,
+    "num_gt": 1,
+    "output": "outputs/easy/47--Matador_Bullfighter__47_Matador_Bullfighter_matadorbullfighting_47_266.jpg"
+  },
+  {
+    "image": "55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_466.jpg",
+    "category": "medium",
+    "num_det": 2,
+    "num_gt": 2,
+    "output": "outputs/medium/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_466.jpg"
+  },
+  {
+    "image": "18--Concerts/18_Concerts_Concerts_18_104.jpg",
+    "category": "hard",
+    "num_det": 1,
+    "num_gt": 4,
+    "output": "outputs/hard/18--Concerts__18_Concerts_Concerts_18_104.jpg"
+  },
+  {
+    "image": "47--Matador_Bullfighter/47_Matador_Bullfighter_matadorbullfighting_47_42.jpg",
+    "category": "multi_face",
+    "num_det": 9,
+    "num_gt": 3,
+    "output": "outputs/multi_face/47--Matador_Bullfighter__47_Matador_Bullfighter_matadorbullfighting_47_42.jpg"
+  },
+  {
+    "image": "55--Sports_Coach_Trainer/55_Sports_Coach_Trainer_sportcoaching_55_569.jpg",
+    "category": "multi_face",
+    "num_det": 14,
+    "num_gt": 17,
+    "output": "outputs/multi_face/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_569.jpg"
+  }
+]

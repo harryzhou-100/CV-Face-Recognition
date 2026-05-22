@@ -1,0 +1,40 @@
+{
+  "lfw_dir": "/root/CV-Face-Recognition/stage2_recognition/data/lfw_flat",
+  "model": "/root/.insightface/models/buffalo_l/w600k_r50.onnx",
+  "n_images": 13233,
+  "n_persons": 5749,
+  "n_pairs": 6000,
+  "skipped": 0,
+  "threshold": 0.22999999999999998,
+  "accuracy": 0.9581666666666667,
+  "accuracy_unconstrained": 0.959,
+  "accuracy_10fold": 0.9581666666666667,
+  "fold_accuracies": [
+    0.96,
+    0.9466666666666667,
+    0.9483333333333334,
+    0.965,
+    0.9483333333333334,
+    0.9616666666666667,
+    0.9533333333333334,
+    0.9583333333333334,
+    0.9783333333333334,
+    0.9616666666666667
+  ],
+  "pair_source": "/root/CV-Face-Recognition/stage2_recognition/data/sklearn_cache/lfw_home/pairs.txt",
+  "precision": 0.973847212663455,
+  "recall": 0.9433333333333334,
+  "f1": 0.9583474432780223,
+  "roc_auc": 0.9884636666666666,
+  "target_met": false,
+  "confusion_matrix": [
+    [
+      2924,
+      76
+    ],
+    [
+      170,
+      2830
+    ]
+  ]
+}
