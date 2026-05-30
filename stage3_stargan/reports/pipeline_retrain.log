@@ -1,0 +1,57 @@
+Train loader: 182637 images, batch=16, 3 epoch(s) × 800 steps/epoch
+Training 3 epoch(s), up to 800 steps/epoch, total 2400 iters
+[epoch 1/3 batch 50/800] iter 50/2400 D: 30919.2456 G: 3.9247
+[epoch 1/3 batch 100/800] iter 100/2400 D: 1017.3431 G: 2.7613
+[epoch 1/3 batch 150/800] iter 150/2400 D: 359.5608 G: 2.5230
+[epoch 1/3 batch 200/800] iter 200/2400 D: 168.0515 G: 2.4350
+[epoch 1/3 batch 250/800] iter 250/2400 D: 102.7079 G: 2.3365
+[epoch 1/3 batch 300/800] iter 300/2400 D: 56.2894 G: 2.2348
+[epoch 1/3 batch 350/800] iter 350/2400 D: 43.9475 G: 2.1741
+[epoch 1/3 batch 400/800] iter 400/2400 D: 30.5333 G: 2.1358
+[epoch 1/3 batch 450/800] iter 450/2400 D: 25.6691 G: 2.1086
+[epoch 1/3 batch 500/800] iter 500/2400 D: 17.0515 G: 2.0450
+[epoch 1/3 batch 550/800] iter 550/2400 D: 15.8083 G: 2.0312
+[epoch 1/3 batch 600/800] iter 600/2400 D: 12.7092 G: 1.9699
+[epoch 1/3 batch 650/800] iter 650/2400 D: 10.2622 G: 1.9496
+[epoch 1/3 batch 700/800] iter 700/2400 D: 10.4485 G: 1.9352
+[epoch 1/3 batch 750/800] iter 750/2400 D: 9.2182 G: 1.9065
+[epoch 1/3 batch 800/800] iter 800/2400 D: 9.0286 G: 1.8734
+New best checkpoint (D=2050.49) saved @ iter 800
+Epoch 1/3 finished, checkpoint @ iter 800, epoch D avg: 2050.49
+[epoch 2/3 batch 50/800] iter 850/2400 D: 7.5490 G: 1.8558
+[epoch 2/3 batch 100/800] iter 900/2400 D: 6.5636 G: 1.8044
+[epoch 2/3 batch 150/800] iter 950/2400 D: 6.0583 G: 1.8007
+[epoch 2/3 batch 200/800] iter 1000/2400 D: 5.9645 G: 1.7671
+[epoch 2/3 batch 250/800] iter 1050/2400 D: 6.2953 G: 1.7743
+[epoch 2/3 batch 300/800] iter 1100/2400 D: 4.7896 G: 1.7652
+[epoch 2/3 batch 350/800] iter 1150/2400 D: 4.8902 G: 1.7467
+[epoch 2/3 batch 400/800] iter 1200/2400 D: 3.9087 G: 1.7134
+[epoch 2/3 batch 450/800] iter 1250/2400 D: 4.4162 G: 1.7317
+[epoch 2/3 batch 500/800] iter 1300/2400 D: 3.9302 G: 1.6882
+[epoch 2/3 batch 550/800] iter 1350/2400 D: 3.1881 G: 1.7090
+[epoch 2/3 batch 600/800] iter 1400/2400 D: 3.4044 G: 1.6672
+[epoch 2/3 batch 650/800] iter 1450/2400 D: 3.1135 G: 1.6409
+[epoch 2/3 batch 700/800] iter 1500/2400 D: 3.0307 G: 1.6633
+[epoch 2/3 batch 750/800] iter 1550/2400 D: 3.4116 G: 1.6633
+[epoch 2/3 batch 800/800] iter 1600/2400 D: 3.4121 G: 1.6158
+New best checkpoint (D=4.62) saved @ iter 1600
+Epoch 2/3 finished, checkpoint @ iter 1600, epoch D avg: 4.62
+[epoch 3/3 batch 50/800] iter 1650/2400 D: 2.9917 G: 1.6174
+[epoch 3/3 batch 100/800] iter 1700/2400 D: 3.1284 G: 1.6020
+[epoch 3/3 batch 150/800] iter 1750/2400 D: 2.3988 G: 1.5981
+[epoch 3/3 batch 200/800] iter 1800/2400 D: 2.2155 G: 1.5763
+[epoch 3/3 batch 250/800] iter 1850/2400 D: 2.1090 G: 1.5735
+[epoch 3/3 batch 300/800] iter 1900/2400 D: 1.9947 G: 1.5687
+[epoch 3/3 batch 350/800] iter 1950/2400 D: 1.8301 G: 1.5440
+[epoch 3/3 batch 400/800] iter 2000/2400 D: 1.6194 G: 1.5026
+[epoch 3/3 batch 450/800] iter 2050/2400 D: 1.8607 G: 1.5190
+[epoch 3/3 batch 500/800] iter 2100/2400 D: 1.6087 G: 1.5139
+[epoch 3/3 batch 550/800] iter 2150/2400 D: 1.6395 G: 1.4948
+[epoch 3/3 batch 600/800] iter 2200/2400 D: 1.5366 G: 1.4763
+[epoch 3/3 batch 650/800] iter 2250/2400 D: 1.4676 G: 1.4640
+[epoch 3/3 batch 700/800] iter 2300/2400 D: 1.2809 G: 1.4843
+[epoch 3/3 batch 750/800] iter 2350/2400 D: 1.2796 G: 1.4590
+[epoch 3/3 batch 800/800] iter 2400/2400 D: 1.1700 G: 1.4655
+New best checkpoint (D=1.88) saved @ iter 2400
+Epoch 3/3 finished, checkpoint @ iter 2400, epoch D avg: 1.88
+Training done. History saved to /workspace/CV-Face-Recognition/stage3_stargan/reports/train_history.json

@@ -1,0 +1,50 @@
+[
+  {
+    "image": "/workspace/CV-Face-Recognition/stage3_3dFace/data/samples/face_01.jpg",
+    "stem": "face_01",
+    "n_vertices": 38365,
+    "n_faces": 2002,
+    "n_detected_faces": 3,
+    "pose_deg": {
+      "pitch": 56.89200342243509,
+      "yaw": 7.930636119637848,
+      "roll": 2.0440367246490285
+    },
+    "mesh_obj": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/meshes/face_01.obj",
+    "mesh_ply": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/meshes/face_01.ply",
+    "render_backend": "matplotlib",
+    "multiview": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/multiview/face_01_multiview.png"
+  },
+  {
+    "image": "/workspace/CV-Face-Recognition/stage3_3dFace/data/samples/face_02.jpg",
+    "stem": "face_02",
+    "n_vertices": 38365,
+    "n_faces": 2002,
+    "n_detected_faces": 1,
+    "pose_deg": {
+      "pitch": -0.4616282386061198,
+      "yaw": 3.7359678128346006,
+      "roll": 6.0607163788836145
+    },
+    "mesh_obj": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/meshes/face_02.obj",
+    "mesh_ply": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/meshes/face_02.ply",
+    "render_backend": "matplotlib",
+    "multiview": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/multiview/face_02_multiview.png"
+  },
+  {
+    "image": "/workspace/CV-Face-Recognition/stage3_3dFace/data/samples/face_03.jpg",
+    "stem": "face_03",
+    "n_vertices": 38365,
+    "n_faces": 2002,
+    "n_detected_faces": 1,
+    "pose_deg": {
+      "pitch": -4.658703861779533,
+      "yaw": 7.456603694475807,
+      "roll": -1.2800650737361838
+    },
+    "mesh_obj": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/meshes/face_03.obj",
+    "mesh_ply": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/meshes/face_03.ply",
+    "render_backend": "matplotlib",
+    "multiview": "/workspace/CV-Face-Recognition/stage3_3dFace/outputs/multiview/face_03_multiview.png"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "checkpoint": "/workspace/CV-Face-Recognition/stage3_stargan/checkpoints/2400-G.pth",
+  "iterations": 2400,
+  "attributes": [
+    "Black_Hair",
+    "Blond_Hair",
+    "Brown_Hair",
+    "Male",
+    "Young"
+  ],
+  "num_samples": 16,
+  "output_dir": "/workspace/CV-Face-Recognition/stage3_stargan/outputs/edited"
+}

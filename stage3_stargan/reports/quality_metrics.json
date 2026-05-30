@@ -1,0 +1,8 @@
+{
+  "fid": 361.5996021382063,
+  "inception_score_mean": 1.815935730934143,
+  "inception_score_std": 0.05755142495036125,
+  "num_real": 1000,
+  "num_fake": 1000,
+  "checkpoint": "/workspace/CV-Face-Recognition/stage3_stargan/checkpoints/2400-G.pth"
+}

@@ -1,0 +1,15 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.23,<2
+opencv-python-headless>=4.8
+pyyaml>=6.0
+scipy>=1.10
+matplotlib>=3.7
+trimesh>=4.0
+pillow>=10.0
+scikit-image>=0.21
+onnxruntime>=1.15
+onnx>=1.14
+cython>=3.0
+tqdm>=4.65
+imageio>=2.31

@@ -1,0 +1,12 @@
+{
+  "tddfa_config": "configs/mb1_120x120.yml",
+  "use_onnx": true,
+  "gpu_mode": true,
+  "dense_mesh": true,
+  "input_dir": "data/samples",
+  "output_dir": "outputs",
+  "multiview_angles_deg": [0, 45, 90, 135, 180, 225, 270, 315],
+  "elevation_deg": 15,
+  "render_backend": "matplotlib",
+  "save_3ddfa_overlay": true
+}
